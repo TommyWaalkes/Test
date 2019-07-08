@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Recursion\bin\Debug\Recursion.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Recursion\obj\Debug\Recursion.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Recursion\obj\Debug\Recursion.pdb
